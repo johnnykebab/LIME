@@ -36,14 +36,14 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "eur1.limepool.io",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "cfda6c53e35341147d4f807cf9dc3d29"
             },
             "1": {
-                "name": "relay 2 usa",
+                "name": "eur2.limepool.io",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "78ef18aadd3e4159f6798fad71e1b4f2"
             },
             "2": {
                 "name": "block producer home",
