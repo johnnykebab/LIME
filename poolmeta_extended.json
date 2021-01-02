@@ -1,8 +1,11 @@
 {
 	"info": {
-		"url_png_icon_64x64": "http://limepool.io/images/lime_logo.png",
-		"url_png_logo": "http://limepool.io/images/lime_logo.png",
-		"location": "Zug, Switzerland"
+		"url_png_icon_64x64": "https://www.limepool.io/images/lime_logo.png",
+		"url_png_logo": "https://www.limepool.io/images/lime_logo.png"
+	},
+	"about": {
+		"me": "IT infrastructure specialist currently located in Switzerland.",
+		"server": "Cloud-based, deployed across multiple datacenters for high availability and site resilience."
 	},
 	"my-pool-ids": {
 		"0": "9b601a5711a0fb8940d3319128b53f4c4a3f5be10ec3bf0a1261447a"
